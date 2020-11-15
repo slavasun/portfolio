@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td> 1 </td>
-    <td> <u> <a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/yandex_realty"> Определение выгодного тарифа телеком-компании. </a> </u>
+    <td> <a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/yandex_realty"> <u> Определение выгодного тарифа телеком-компании: </u> </a> 
       Подготовлен сводный годовой отчет с разбивкой по месяцам, рассчитана суммарная выручка, полученная от пользователей тарифа "Смарт" и "Ультра". Проведена <b>статистическая проверка гипотез </b></td>  
     <td> Pandas, Numpy, Scipy, Seaborn, Matplotlib </td>
   </tr>
