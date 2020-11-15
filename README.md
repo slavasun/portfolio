@@ -1,15 +1,3 @@
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
-</head>
-<body>
-
-<h1>Add a width i percent for tds</h1>
-
 Данный файл содержит краткое описание, выполненных мной проектов. Для более детального ознакомления с проектом просто кликни на его название :point_down:. 
 
 А если есть вопросы или хочешь обсудить какой-либо из проектов или предложить сотрудничество :point_right: [смело пиши мне в LinkedIn](http://www.linkedin.com/in/slavasun).
@@ -110,7 +98,3 @@ table, th, td {
   </tr>
   
 </table>
-
-
-</body>
-</html>
