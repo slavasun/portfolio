@@ -5,7 +5,7 @@
 <table>
     <tr>
         <td> <b> № </b> </td>
-        <td> <b> Название и решённые задачи </b> </td>
+        <td> <b> Название проекта и решённые задачи </b> </td>
         <td> <b> Ключевые инструменты </b> </td>
         <td> <b> Использованы библиотеки </b> </td>
     </tr>
@@ -21,21 +21,24 @@
     </tr>
     <tr>
         <td>2</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/yandex_realty"> Анализ параметров объектов Яндекс.Недвижимости </a> 
+    <br> Определено влияние на стоимость квадратного метра таких параметров как расстояние до центра Санкт-Петербурга, количество комнат, площадь кухни, высота потолков, этажность</td>
+        <td>ПУСТО</td>
+        <td>Pandas, Scipy, Seaborn, Matplotlib</td>
     </tr>
     <tr>
         <td>3</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/bank_debts"> Определение факторов влияющих на платежеспособность клиентов банка </a>
+      Определены признаки самых рискованных и наиболее надёжных заемщиков, влияющих на уровень просрочки по платежам. <b>Проведена лемматизация</b> целей кредита с последующей категоризацией заёмщиков по цели кредита</td>
+        <td>ПУСТО</td>
+        <td>Pandas, Numpy, PyMystem3, Collections</td>
     </tr>
     <tr>
         <td>4</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/ML_fitness"> Формирование типичных портретов клиентов фитнес-центра для минимизации оттока </a>
+      С помощью методов машинного обучения проведен анализ анкет пользователей фитнес-центра, составлены портреты типичных групп клиентов. Определены показатели, указывающие на то, что клиент собирается перестать пользоваться услугами центра</td>
+        <td>ПУСТО</td>
+        <td>Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Scipy</td>
     </tr>
     <tr>
         <td colspan="4"><b> СберУниверситет </b><b> </b></td>
@@ -43,13 +46,13 @@
     <tr>
         <td>5</td>
         <td></td>
-        <td></td>
+        <td>ПУСТО</td>
         <td></td>
     </tr>
     <tr>
         <td>6</td>
         <td></td>
-        <td></td>
+        <td>ПУСТО</td>
         <td></td>
     </tr>
     <tr>
@@ -58,13 +61,13 @@
     <tr>
         <td>7</td>
         <td></td>
-        <td></td>
+        <td>ПУСТО</td>
         <td></td>
     </tr>
     <tr>
         <td>8</td>
         <td></td>
-        <td></td>
+        <td>ПУСТО</td>
         <td></td>
     </tr>
     <tr>
@@ -73,37 +76,37 @@
     <tr>
         <td>9</td>
         <td></td>
-        <td></td>
+        <td>ПУСТО</td>
         <td></td>
     </tr>
     <tr>
         <td>10</td>
         <td></td>
-        <td></td>
+        <td>ПУСТО</td>
         <td></td>
     </tr>
     <tr>
         <td>11</td>
         <td></td>
-        <td></td>
+        <td>ПУСТО</td>
         <td></td>
     </tr>
     <tr>
         <td>12</td>
         <td></td>
-        <td></td>
+        <td>ПУСТО</td>
         <td></td>
     </tr>
     <tr>
         <td>13</td>
         <td></td>
-        <td></td>
+        <td>ПУСТО</td>
         <td></td>
     </tr>
     <tr>
         <td>14</td>
         <td></td>
-        <td></td>
+        <td>ПУСТО</td>
         <td></td>
     </tr>
 </table>
