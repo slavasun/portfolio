@@ -9,11 +9,9 @@
         <td> <b> Ключевые инструменты </b> </td>
         <td> <b> Использованы библиотеки </b> </td>
     </tr>
-    
     <tr>
         <td colspan="4"><b>Яндекс.практикум</b></td>
-    </tr>
-    
+    </tr>  
     <tr>
         <td>1</td>
         <td> <a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/yandex_realty"> Определение выгодного тарифа телеком-компании </a> 
@@ -64,15 +62,15 @@
     </tr>
     <tr>
         <td>7</td>
-        <td></td>
         <td>ПУСТО</td>
-        <td></td>
+        <td>ПУСТО</td>
+        <td>ПУСТО</td>
     </tr>
     <tr>
         <td>8</td>
-        <td></td>
         <td>ПУСТО</td>
-        <td></td>
+        <td>ПУСТО</td>
+        <td>ПУСТО</td>
     </tr>
     <tr>
         <td colspan="4"><b> Дополнительные, но полезные)</b></td>
@@ -101,9 +99,9 @@
     </tr>
     <tr>
         <td>12</td>
-        <td></td>
         <td>ПУСТО</td>
-        <td></td>
+        <td>ПУСТО</td>
+        <td>ПУСТО</td>
     </tr>
     <tr>
         <td>13</td>
