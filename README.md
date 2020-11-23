@@ -91,7 +91,6 @@
     <tr>
         <td>11</td>
         <td><a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/Moscow_restaurants"> Исследование рынка общественного питания в Москве </a> Определены характерные особенности рынка общественного питания, выявлены самые насыщенные объектами улицы, а также распределение объектов по типу, имеющих сетевое распространение </td>
-        <td> Проверка гипотез, когортный анализ </td>
         <td>ПУСТО</td>
         <td>Pandas, Numpy, Matplotlib, Seaborn, Plotly, tqdm</td>
     </tr>
