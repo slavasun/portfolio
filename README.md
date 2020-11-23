@@ -9,9 +9,11 @@
         <td> <b> Ключевые инструменты </b> </td>
         <td> <b> Использованы библиотеки </b> </td>
     </tr>
+    
     <tr>
         <td colspan="4"><b>Яндекс.практикум</b></td>
     </tr>
+    
     <tr>
         <td>1</td>
         <td> <a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/yandex_realty"> Определение выгодного тарифа телеком-компании </a> 
