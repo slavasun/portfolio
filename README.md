@@ -100,5 +100,5 @@
   <td> Проверка гипотез, когортный анализ </td>
     <td> Pandas, SQLalchemy, datetime, dash, Tableau </td>
   </tr>
-  
+   
 </table>
