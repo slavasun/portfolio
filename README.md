@@ -9,6 +9,7 @@
     <td> <b> Использованы библиотеки </b> </td>
   </tr>
   
+  <tr> <b>Яндекс.Практикум </b> </tr>
   <tr>
     <td> 1 </td>
     <td> <a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/yandex_realty"> Определение выгодного тарифа телеком-компании </a> 
@@ -17,6 +18,7 @@
     <td> Pandas, Numpy, Scipy, Seaborn, Matplotlib </td>
   </tr>
   
+  <tr> <b> СберУниверситет </b> </tr>
   <tr>
     <td> 2 </td>
     <td> <a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/yandex_realty"> Анализ параметров объектов Яндекс.Недвижимости </a> 
@@ -25,6 +27,7 @@
     <td> Pandas, Scipy, Seaborn, Matplotlib </td>
   </tr>
  
+ <tr> <b> Рабочие (микроэлектроника) </b> </tr>
   <tr>
     <td> 3 </td>
     <td> <a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/bank_debts"> Определение факторов влияющих на платежеспособность клиентов банка </a>
@@ -33,6 +36,7 @@
     <td> Pandas, Numpy, PyMystem3, Collections </td>
   </tr>
   
+  <tr> <b> Дополнительные </b> </tr>
    <tr>
     <td> 4 </td>
     <td> <a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/ML_fitness"> Формирование типичных портретов клиентов фитнес-центра для минимизации оттока </a>
