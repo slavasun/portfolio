@@ -10,7 +10,7 @@
         <td align="center"> <b> Использованы библиотеки </b> </td>
     </tr>
     <tr>
-        <td colspan="4" align="center" ><b>Яндекс.практикум</b></td>
+        <td colspan="4" ><b>              Яндекс.практикум</b></td>
     </tr>  
     <tr>
         <td>1</td>
