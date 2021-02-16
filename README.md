@@ -10,6 +10,22 @@
         <td align="center"> <b> Использованы библиотеки </b> </td>
     </tr>
     <tr>
+        <td colspan="4"><b>Рабочие (микроэлектроника)</b></td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>ПУСТО</td>
+        <td>ПУСТО</td>
+        <td>ПУСТО</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>ПУСТО</td>
+        <td>ПУСТО</td>
+        <td>ПУСТО</td>
+    </tr> 
+
+    <tr>
         <td colspan="4" ><b> Яндекс.Практикум</b></td>
     </tr>  
     <tr>
@@ -57,21 +73,7 @@
         <td>ПУСТО</td>
         <td>requests, bs4, SQL, Pandas, Matplotlib, Seaborn</td>
     </tr>
-    <tr>
-        <td colspan="4"><b>Рабочие (микроэлектроника)</b></td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>ПУСТО</td>
-        <td>ПУСТО</td>
-        <td>ПУСТО</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>ПУСТО</td>
-        <td>ПУСТО</td>
-        <td>ПУСТО</td>
-    </tr>
+    
     <tr>
         <td colspan="4"><b> Дополнительные, но полезные)</b></td>
     </tr>
