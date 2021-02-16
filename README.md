@@ -10,32 +10,32 @@
         <td align="center"> <b> Использованы библиотеки </b> </td>
     </tr>
     <tr>
-        <td colspan="4"><b>Рабочие (микроэлектроника)</b></td>
+        <td colspan="4"> <b> Рабочие (микроэлектроника) </b> </td>
     </tr>
     <tr>
-        <td>7</td>
-        <td>ПУСТО</td>
-        <td>ПУСТО</td>
-        <td>ПУСТО</td>
+        <td> 1 </td>
+        <td> Описание </td>
+        <td> Ключевые слова </td>
+        <td> Библиотеки </td>
     </tr>
     <tr>
-        <td>8</td>
+        <td> 2 </td>
         <td>ПУСТО</td>
         <td>ПУСТО</td>
         <td>ПУСТО</td>
     </tr> 
     <tr>
-        <td colspan="4" ><b> Яндекс.Практикум</b></td>
+        <td colspan="4"> <b> Яндекс.Практикум </b> </td>
     </tr>  
     <tr>
-        <td>1</td>
+        <td> 1 </td>
         <td> <a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/yandex_realty"> Определение выгодного тарифа телеком-компании </a> 
     <br> Подготовлен сводный годовой отчет с разбивкой по месяцам, рассчитана суммарная выручка, полученная от пользователей тарифа "Смарт" и "Ультра". Проведена статистическая проверка гипотез. </td>
-        <td>Проверка гипотез, когортный анализ</td>
-        <td>Pandas, Numpy, Scipy, Seaborn, Matplotlib</td>
+        <td> Проверка гипотез, когортный анализ td>
+        <td> Pandas, Numpy, Scipy, Seaborn, Matplotlib </td>
     </tr>
     <tr>
-        <td>2</td>
+        <td> 2 </td>
         <td><a href="https://github.com/slavasun/Slavasun_Portfolio/blob/master/yandex_realty"> Анализ параметров объектов Яндекс.Недвижимости </a> 
     <br> Определено влияние на стоимость квадратного метра таких параметров как расстояние до центра Санкт-Петербурга, количество комнат, площадь кухни, высота потолков, этажность</td>
         <td>ПУСТО</td>
@@ -72,7 +72,6 @@
         <td>ПУСТО</td>
         <td>requests, bs4, SQL, Pandas, Matplotlib, Seaborn</td>
     </tr>
-    
     <tr>
         <td colspan="4"><b> Дополнительные, но полезные)</b></td>
     </tr>
