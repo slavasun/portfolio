@@ -33,8 +33,9 @@
         <td> 3 </td>
         <td> <a href="empty_now"> Отток клиентов банка </a> 
     <br> По данным о клиенте банка построил модель, позволяющую спрогнозировать вероятность, уйдет ли клиент из банка в ближайшее время. При этом применил различные методы для корректной работы с исходными данными, в которых есть существенный дисбаланс классов. </td>
-        <td> DecisionTreeClassifier, RandomForestClassifier, 
-          br> F1-score, ROC-AUC score, 
+        <td> DecisionTreeClassifier,
+          <br> RandomForestClassifier, 
+          <br> F1-score, ROC-AUC score, 
           <br> Upsampling, Downsampling </td>
         <td> Pandas, Numpy, Sklearn,  </td>
     </tr>
