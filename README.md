@@ -15,7 +15,7 @@
     <tr>
         <td> 1 </td>
         <td> <a href="empty_now"> Обработка результатов измерений беспроводных датчиков радиоидентификации </a>  </td>
-        <td> "тепловая карта", статистический анализ, проверка гипотез, сводная таблица, pdf-отчет </td>
+        <td> "тепловая карта", статистическая обработка, сводная таблица, pdf-отчет </td>
         <td> Pandas, Numpy, Seaborn, SciPy, LaTeX </td>
     </tr>
     <tr>
@@ -31,7 +31,9 @@
         <td> 3 </td>
         <td> <a href="empty_now"> Отток клиентов банка </a> 
     <br> По данным о клиенте банка построил модель, позволяющую спрогнозировать вероятность, уйдет ли клиент из банка в ближайшее время. При этом применил различные методы для корректной работы с исходными данными, в которых есть существенный дисбаланс классов. </td>
-        <td> DecisionTreeClassifier, RandomForestClassifier, F1-score, ROC-AUC score, Upsampling, Downsampling </td>
+        <td> DecisionTreeClassifier, RandomForestClassifier, 
+          br> F1-score, ROC-AUC score, 
+          <br> Upsampling, Downsampling </td>
         <td> Pandas, Numpy, Sklearn,  </td>
     </tr>
     <tr>
