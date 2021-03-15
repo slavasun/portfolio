@@ -2,7 +2,7 @@
 А если хочешь предложить сотрудничество или нужна помощь :point_right: [смело пиши мне в LinkedIn](http://www.linkedin.com/in/slavasun).
 
   
-<table>
+<table width="300">
     <tr>
         <td width="50" align="center"> <b> № </b> </td>
         <td align="center"> <b> Название проекта и решённые задачи </b> </td>
