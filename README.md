@@ -4,7 +4,7 @@
   
 <table>
     <tr>
-        <td width="5" align="center"> <b> № </b> </td>
+        <td width="50" align="center"> <b> № </b> </td>
         <td align="center"> <b> Название проекта и решённые задачи </b> </td>
         <td align="center"> <b> Ключевые инструменты </b> </td>
         <td align="center"> <b> Использованы библиотеки </b> </td>
