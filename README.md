@@ -120,14 +120,14 @@
     <tr>
         <td>14</td>
         <td><a href="https://github.com/slavasun/portfolio/tree/main/%D0%A0%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"> Рейтинговая рекомендательная система фильмов </a> 
-      in_progress </td>
+      description_in_progress </td>
         <td> in_progress </td>
         <td> in_progress </td>
     </tr>
     <tr>
         <td>15</td>
         <td><a href="https://github.com/slavasun/portfolio/tree/main/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"> Коллаборативная рекомендательная система фильмов</a> 
-         in_progress </td>
+         description_in_progress </td>
         <td> in_progress </td>
         <td> in_progress </td>
     </tr>
@@ -139,25 +139,25 @@
         <td><a href="https://github.com/slavasun/portfolio/tree/main/%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D1%85%20%D0%B7%D0%B0%D1%82%D1%80%D0%B0%D1%82"> Оптимизация маркетинговых затрат в Яндекс.Афише </a>
       Рассчитаны ключевые метрики LTV, CAC, ROI по маркетинговым затратам, проведен когортный анализ, выявлены нерентабельные направления рекламы и те, которые окупились </td>
         <td> юнит-экономика </td>
-        <td>Pandas, Numpy, Matplotlib, Seaborn</td>
+        <td>Pandas, Numpy, <b> Matplotlib, Seaborn </b></td>
     </tr>
     <tr>
         <td>17</td>
         <td><a href="https://github.com/slavasun/portfolio/tree/main/%D0%90_%D0%92_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0"> Проверка гипотез для увеличения выручки в интернет-магазине, оценка результатов A/B-теста </a> Проведен анализ A/B-теста, данные очищены от выбросов, существенно искажавших результат, проверены гипотезы о различии среднего чека заказа и конверсии между А и В группами</td>
-        <td> A/B тесты, проверка стат гипотез </td>
-        <td>Pandas, Numpy, Matplotlib, Scipy, ICE, RICE</td>
+        <td> A/B тесты, проверка стат гипотез, фреймворки ICE, RICE </td>
+      <td>Pandas, Numpy, Matplotlib, <b> Scipy </b> </td>
     </tr>
     <tr>
         <td>18</td>
         <td><a href="https://github.com/slavasun/portfolio/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%BC%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B"> Исследование рынка общественного питания в Москве </a> Определены характерные особенности рынка общественного питания, выявлены самые насыщенные объектами улицы, а также распределение объектов по типу, имеющих сетевое распространение </td>
         <td> работа с открытыми данными </td>
-        <td>Pandas, Numpy, Matplotlib, Seaborn, Plotly, tqdm</td>
+        <td>Pandas, Numpy, Matplotlib, Seaborn, <b> Plotly, tqdm </b> </td>
     </tr>
     <tr>
         <td>19</td>
         <td><a href="https://github.com/slavasun/portfolio/tree/main/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B2%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8"> Анализ пользовательского поведения в мобильном приложении </a> Определена воронка событий в приложении, доли пользователей для каждого этапа конверсии, проведены A/A/B-эксперименты, с поправкой Бонферрони проверены гипотезы о различии долей</td>
         <td> воронка событий, A/A/B тестирования </td>
-        <td>Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, Math</td>
+        <td>Pandas, Numpy, <b> Scipy, Plotly </b>, Math</td>
     </tr>
     <tr>
         <td>20</td>
@@ -168,9 +168,9 @@
     <tr>
         <td>21</td>
         <td><a href="https://github.com/slavasun/portfolio/tree/main/%D0%9F%D0%B0%D1%80%D1%81%D0%B8%D0%BD%D0%B3_SQL_%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B"> Проверка гипотезы о повышении спроса на авиабилеты во время фестивалей </a>
-      Данные о перелетах и фестивалях собраны <b>с помощью парсера и SQL-запросов</b>. По полученным данным проанализирован спрос пассажиров на рейсы в города, где проходят крупнейшие фестивали. Проверена гипотеза, что количество рейсов во время фестивалей увеличивается </td>
+      Данные о перелетах и фестивалях собраны с помощью парсера и SQL-запросов. По полученным данным проанализирован спрос пассажиров на рейсы в города, где проходят крупнейшие фестивали. Проверена гипотеза, что количество рейсов во время фестивалей увеличивается </td>
         <td> парсинг, базы данных, запросы</td>
-        <td>requests, bs4, SQL, Pandas, Matplotlib, Seaborn</td>
+      <td> Pandas, Seaborn, <b> requests, bs4, SQL </b> </td>
     </tr>
     <tr>
 </table>
