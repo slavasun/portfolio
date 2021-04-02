@@ -17,14 +17,14 @@
         <td> <a href="https://github.com/slavasun/portfolio/tree/main/%D0%98%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D0%B5%D1%81%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8"> Обработка результатов измерений беспроводных датчиков радиоидентификации </a> 
      <br> Для снижения трудозатрат разработал пайплайн, который сначала считывает данные с измерительного оборудования, проводит разметку датчиков годные/бракованные, строит карту годных и распределения ключевых характеристик, выгружает сводный pdf-отчет.  </td>
         <td> статобработка, "тепловая карта" </td>
-        <td> Pandas, Numpy, Seaborn, <b> SciPy, LaTeX </b> </td>
+        <td> Pandas, Numpy, <b> SciPy, LaTeX </b> </td>
     </tr>
     <tr>
         <td> 2 </td>
         <td> <a href="https://github.com/slavasun/portfolio/tree/main/%D0%A1%D0%B2%D0%B5%D1%80%D1%82%D0%BA%D0%B0%20%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2"> Математическая свертка радиосигналов </a> 
       <br> Для снижения финансовых затрат путем замены натурных испытаний на матмоделирование написал код, в котором сначала проводим свертку сигналов во частотной области, затем переходим во временную область с помощью обратного Фурье-преобразования. Интерполируя временную область с пиковыми значениями рассчитываем ключевые характеристики изделия. </td>
         <td> предобработка данных, Фурье преобразование, интерполяция </td>
-        <td> Pandas, Numpy, Seaborn, Pylab</td>
+        <td> Pandas, Numpy, <b> Seaborn, Pylab </b> </td>
     </tr> 
     <tr>
         <td colspan="4"> <b> Яндекс.Практикум </b> </td>
@@ -37,14 +37,14 @@
           <br> RandomForest 
           <br> F1-score, ROC-AUC score, 
           <br> Upsampling, Downsampling </td>
-        <td> Pandas, Numpy, Sklearn,  </td>
+        <td> Pandas, Numpy, <b> Sklearn </b> </td>
     </tr>
     <tr>
         <td> 4 </td>
         <td> <a href="https://github.com/slavasun/portfolio/tree/main/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BD%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BD%D0%B5%D1%84%D1%82%D0%B8"> Выбор региона для разработки новых нефтяных месторождений </a> 
     <br> По данным о запасах и качества нефти в трёх регионах построил модель для предсказания объёма запасов в новых скважинах. С помощью техники Bootstrap для регионов, в которых находятся скважины с самыми высокими оценками значений, проанализировал возможную прибыль и риски.</td>
         <td> LinearRegression, Bootstrap </td>
-        <td> Pandas, Numpy, Matplotlib, Sklearn, SciPy </td>
+        <td> Pandas, Numpy, <b> Matplotlib, Sklearn </b>, SciPy </td>
     </tr>
     <tr>
         <td> 5 </td>
